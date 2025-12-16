@@ -1,0 +1,14 @@
+./data/raw/finger/13/1.bmp
+./data/raw/finger/13/10.bmp
+./data/raw/finger/13/2.bmp
+./data/raw/finger/13/3.bmp
+./data/raw/finger/13/5.bmp
+./data/raw/finger/13/6.bmp
+./data/raw/finger/13/7.bmp
+./data/raw/finger/13/8.bmp
+./data/raw/finger/13/9.bmp
+./data/raw/finger/14/5.bmp
+./data/raw/finger/9/2.bmp
+./data/raw/finger/9/5.bmp
+./data/raw/finger/9/7.bmp
+./data/raw/finger/9/8.bmp
